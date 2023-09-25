@@ -21,8 +21,7 @@ If data is not available suggestions for what type data to gather would be recom
 The WWP could also have parameters linked to the type of work being performed etc.
 
 ## How is it used?
- # Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
+ 
 I imagine that the The WWP could be used as follows:
 1. Available data from the organisation is mapped and compared to the minimum input requirements 
 2. The applicable data is structured and used as input. 
@@ -32,7 +31,6 @@ I imagine that the The WWP could be used as follows:
 Users would typically be human resource departments monitoring the health of the organisation.  
 
 ## Data sources and AI methods
- # Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 
 For this project machine learning (or a nevral nettwork) could be used. The model would be trained on data from actual organisations (if available) or data
 constructed based on research into workplace wellbeing and burnout.
@@ -40,8 +38,7 @@ constructed based on research into workplace wellbeing and burnout.
 The data for the predictions would come from the organisations themselves e.g. employee surveys, employee/company statistics etc.
 
 ## Challenges
- # What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
+ 
 There are plenty of challenges for this project and a lot of questions that need to be answered, and obviously there are some ethical considerations
 that would need to be clarified as well.
 
@@ -55,8 +52,7 @@ Typical questions that would need to be answered:
 Establishing the data for training the model could also prove challenging.
 
 ## What next?
- # How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
-
+ 
 A good starting point for this project would be to address the questions stated above. 
 This would serve as a basis for collecting training data.
 In parallell with the data collection some coding should be done to get an impression of how the WPP could be trained and what features it could have.
